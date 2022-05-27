@@ -6,3 +6,9 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/.idea
+/.idea/sonarlint/issuestore/index.pb
+/.idea/libraries/javax_json_1_1_4.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
